@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx?wsdl" docRef="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx" xmlns:q1="http://tempuri.org/" binding="q1:send_clm_ostdata_prodSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx" xmlns:q2="http://tempuri.org/" binding="q2:send_clm_ostdata_prodSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

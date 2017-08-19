@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx?disco" filename="send_clm_ostdata.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://www.bangkokinsurance.com/FAX_CLM_EX_WS/send_clm_ostdata.asmx?wsdl" filename="send_clm_ostdata.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>
